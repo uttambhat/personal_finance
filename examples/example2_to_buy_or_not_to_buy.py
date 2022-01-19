@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from personal_finances import *
+from personal_finance import *
 
 #================================================================================================
 # Compare alternate investment scenarios - 1) rent and invest in market vs. 2) invest in a house
